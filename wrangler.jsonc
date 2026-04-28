@@ -1,5 +1,5 @@
 {
-  "name": "aurahome-ai",
+  "name": "aura-home-ai",
   "compatibility_date": "2025-04-28",
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
