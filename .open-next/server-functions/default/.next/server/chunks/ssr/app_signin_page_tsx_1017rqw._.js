@@ -1,0 +1,3 @@
+module.exports=[42099,a=>{"use strict";var b=a.i(87924);a.s(["default",0,function(){return(0,b.jsx)("div",{className:"container",style:{maxWidth:"500px",margin:"120px auto",padding:"0 24px"},children:(0,b.jsxs)("div",{className:"card",style:{padding:"48px",textAlign:"center"},children:[(0,b.jsx)("h1",{style:{fontSize:"32px",marginBottom:"24px"},children:"Sign In"}),(0,b.jsx)("p",{style:{marginBottom:"32px",color:"#5A4A3A"},children:"Account system coming soon. For now, you can continue as guest."}),(0,b.jsx)("button",{className:"btn-primary",onClick:()=>window.location.href="/",children:"Continue as Guest"})]})})}])}];
+
+//# sourceMappingURL=app_signin_page_tsx_1017rqw._.js.map
